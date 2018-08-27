@@ -1,4 +1,4 @@
-# 20180822 Week 1
+# 20180822 Week 1(ditt)
 
 ## Problems
 
